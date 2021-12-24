@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react"
-import { Button, Input, message } from "antd"
+import { Button, Input, message } from "Antd"
 import { UserOutlined } from "@ant-design/icons"
 import UserInfo from "./UserInfo"
 import { getuser } from "../Apis/index"
