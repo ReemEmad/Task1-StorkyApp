@@ -1,5 +1,5 @@
 import React from "react"
-import { Tabs } from "Antd"
+import { Tabs } from "antd"
 import {
   UserOutlined,
   ForkOutlined,
